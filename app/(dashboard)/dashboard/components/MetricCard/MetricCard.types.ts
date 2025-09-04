@@ -1,5 +1,5 @@
 export type MetricCardProps = {
-    iconn: React.ReactNode;
+    icon: React.ReactNode;
     title: string;
     value: string | number;
 };
